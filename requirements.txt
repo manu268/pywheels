@@ -97,7 +97,7 @@ docutils
 ecdsa
 paramiko
 psycopg2
-pycrypto
+#pycrypto
 Pygments
 pyodbc
 python-ldap

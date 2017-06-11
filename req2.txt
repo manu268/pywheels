@@ -1,0 +1,10 @@
+django-admin-interface
+django-grappelli
+django-crispy-forms
+django-bootstrap3
+django-bootstrap-form
+django-model-utils
+django-angular
+django-bower
+djangular
+django-adminactions
